@@ -21,10 +21,15 @@ header {
   padding: 0 0.6rem;
 }
 
-h1,
+h1 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 35px;
+}
 h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  font-weight: 600;
 }
 
 p {
