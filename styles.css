@@ -30,6 +30,8 @@ h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 600;
+  text-shadow: 3px 2px #1e8eaa;
+  text-align: center;
 }
 
 p {
